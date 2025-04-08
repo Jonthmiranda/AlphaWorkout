@@ -1,22 +1,23 @@
 # AlphaWorkout
 
- ## Description
+## Descrição
 
- Alphabet Workout a idea that i have with the book of Dan Cockerell
+Ideia que tive com o livro de Dan Cockerell, onde todo dia tem uma palavra diferente onde cada letra da palavra é um exercicio diferente
 
- ## Main Features
+## Principais Características
 
- - Word of the Day, each letter is a exercice diferent, a day never will like other day
+- Palavra do Dia, cada letra é um exercício diferente, um dia nunca será como o outro
 
- ## Requirements
+## Requisitos
 
- - Python installed
+- Python instalado
 
- ## Installation
+## Instalação
 
- ```bash
- git clone https://github.com/Jonthmiranda/AlphaWorkout
- ```
+```bash
+git clone https://github.com/Jonthmiranda/AlphaWorkout
+```
 
- ## Usage
- Only play the code
+## Uso
+
+- Só iniciar o código
